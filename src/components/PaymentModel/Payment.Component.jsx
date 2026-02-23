@@ -1,6 +1,6 @@
 import React from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import { Fragmen } from "react";
+import { Fragment } from "react";
 
 const PaymentModel = ({ setIsOpen, isOpen, price }) => {
   const closeModal = () => {
