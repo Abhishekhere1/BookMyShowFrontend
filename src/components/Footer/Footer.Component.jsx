@@ -17,9 +17,9 @@ const iconStyle = {
   transition: "transform 0.3s ease-in-out",
 };
 
-const hoveredStyle = {
-  transform: "scale(1.2)",
-};
+// const hoveredStyle = {
+//   transform: "scale(1.2)",
+// };
 
 const Footer = () => {
   return (
